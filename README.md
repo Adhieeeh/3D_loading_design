@@ -25,7 +25,7 @@ To run this project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Adhieeeh/3D_loading_design.git] (https://github.com/Adhieeeh/3D_loading_design.git)
+    git clone [https://github.com/Adhieeeh/3D_loading_design.git]
     ```
 2.  **Open the project:**
     Simply open the `index.html` file in any modern web browser.
